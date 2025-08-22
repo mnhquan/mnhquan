@@ -1,9 +1,5 @@
 # 👋 YO! I'm Quan. Welcome to my Profile!!!
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif"/>
-</p>
-
 ## 👨‍💻 About me
 - ✨ Dreaming to become a **Fullstack Developer**  
 - 🌱 Currently learning **Spring Framework & System Design**  
