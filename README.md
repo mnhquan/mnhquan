@@ -1,11 +1,8 @@
-# Hi there 👋. I'm Quan. Welcome to my Profile!!!
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=mnhquan.mnhquan)
+# 👋 YO! I'm Quan. Welcome to my Profile!!!
 
-<p align="right">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="coding gif"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif"/>
 </p>
-
----
 
 ## 👨‍💻 About me
 - ✨ Dreaming to become a **Fullstack Developer**  
@@ -18,12 +15,8 @@
 
 ---
 
-## 🛠️ Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-</p>
+## 🛠️ Tech Stack  
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 
 ---
 
